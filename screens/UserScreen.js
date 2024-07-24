@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>User Screen</Text>
+      <Text>Perfil, Devocionales, Oración, etc.</Text>
     </View>
   );
 }

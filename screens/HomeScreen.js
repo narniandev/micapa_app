@@ -4,7 +4,9 @@ import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>HomeScreen</Text>
+      <Text>Home de la aplicación</Text>
+      <Text>Eventos y Horarios de la Iglesia</Text>
+      <Text>Biblia, Recursos y oración</Text>
     </View>
   );
 }

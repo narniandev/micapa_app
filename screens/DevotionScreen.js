@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Devotion Screen</Text>
+      <Text>Devocionales, Biblia, Recursos y oración</Text>
     </View>
   );
 }
